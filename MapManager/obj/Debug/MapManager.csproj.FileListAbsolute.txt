@@ -1,0 +1,9 @@
+C:\Users\locob\Documents\GitHub\CSC352_Public\MapManager\bin\Debug\MapManager.exe.config
+C:\Users\locob\Documents\GitHub\CSC352_Public\MapManager\bin\Debug\MapManager.exe
+C:\Users\locob\Documents\GitHub\CSC352_Public\MapManager\bin\Debug\MapManager.pdb
+C:\Users\locob\Documents\GitHub\CSC352_Public\MapManager\obj\Debug\MapManager.Form1.resources
+C:\Users\locob\Documents\GitHub\CSC352_Public\MapManager\obj\Debug\MapManager.Properties.Resources.resources
+C:\Users\locob\Documents\GitHub\CSC352_Public\MapManager\obj\Debug\MapManager.csproj.GenerateResource.cache
+C:\Users\locob\Documents\GitHub\CSC352_Public\MapManager\obj\Debug\MapManager.csproj.CoreCompileInputs.cache
+C:\Users\locob\Documents\GitHub\CSC352_Public\MapManager\obj\Debug\MapManager.exe
+C:\Users\locob\Documents\GitHub\CSC352_Public\MapManager\obj\Debug\MapManager.pdb
